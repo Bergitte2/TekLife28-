@@ -1,4 +1,4 @@
-#Our company name is TekLife16
+#Our company name is TekLife
 
 ![alt tag](https://cloud.githubusercontent.com/assets/10866742/6201322/ec1bbd9a-b4aa-11e4-9ce2-49104406f34e.jpg)
 
