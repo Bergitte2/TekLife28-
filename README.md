@@ -18,6 +18,4 @@ TekLife Team
 
 |Ahmed Naguib      |19-4073     |
 
-|Omar Hisham	   |28-1325		|
-
 |Mariam Afifi      |25-4119     |
