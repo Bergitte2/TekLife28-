@@ -4,7 +4,7 @@
 
 
 We are a company of 7 passionate software developers. We enjoy creating your software. Business dream and we make it come true.
-TekLife16 Team
+TekLife Team
 
 |Name              | ID         |
 
