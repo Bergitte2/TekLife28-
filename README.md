@@ -14,10 +14,14 @@ TekLife Team
 
 |Hussien Kamal     |28-1080     |
 
+|Omar Ahmed        |28-1325     |
+
+|Monica Gamal      |28-2288     |
+
 |Jirayr Vahe       |19-0890     |
 
 |Ahmed Naguib      |19-4073     |
 
 |Mariam Afifi      |25-4119     |
 
-|Omar Ahmed        |28-1325     |
+
