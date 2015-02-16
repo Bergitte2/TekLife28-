@@ -1,7 +1,6 @@
 #Our company name is TekLife
 
-![logo 1](https://cloud.githubusercontent.com/assets/10826223/6204345/a17c69aa-b550-11e4-944a-03fc24d842f4.png)
-
+![logo1](https://cloud.githubusercontent.com/assets/10826223/6214584/506d28da-b602-11e4-8e42-bce72275ebe3.png)
 
 We are a company of 7 passionate software developers. We enjoy creating your software. Business dream and we make it come true.
 TekLife Team
